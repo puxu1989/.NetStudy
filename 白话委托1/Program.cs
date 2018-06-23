@@ -15,9 +15,9 @@ namespace 白话委托1
         static void Main(string[] args)
         {
             //这里就是具体阐述这个命令是干什么的，本例是MrZhang.BuyTicket“小张买车票”
-            BugTicketEventHandler myDelegate = new BugTicketEventHandler(MrZhang.BuyTicket);
+            BugTicketEventHandler myDelegate = new BugTicketEventHandler( += MrZhang.BuyMovieTicket;);
             
-            myDelegate += MrZhang.BuyMovieTicket;
+            myDelegate
             //这时这个委托就相当于要做2件事情，先是买车票，再是买电影票拉！
             
            
