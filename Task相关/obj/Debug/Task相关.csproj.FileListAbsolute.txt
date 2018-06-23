@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Task相关\bin\Debug\Task相关.exe.config
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Task相关\bin\Debug\Task相关.exe
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Task相关\bin\Debug\Task相关.pdb
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Task相关\obj\Debug\Task相关.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Task相关\obj\Debug\Task相关.exe
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Task相关\obj\Debug\Task相关.pdb

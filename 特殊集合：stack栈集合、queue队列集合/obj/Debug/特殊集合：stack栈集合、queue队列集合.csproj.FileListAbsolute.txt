@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\特殊集合：stack栈集合、queue队列集合\bin\Debug\特殊集合：stack栈集合、queue队列集合.exe.config
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\特殊集合：stack栈集合、queue队列集合\bin\Debug\特殊集合：stack栈集合、queue队列集合.exe
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\特殊集合：stack栈集合、queue队列集合\bin\Debug\特殊集合：stack栈集合、queue队列集合.pdb
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\特殊集合：stack栈集合、queue队列集合\obj\Debug\特殊集合：stack栈集合、queue队列集合.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\特殊集合：stack栈集合、queue队列集合\obj\Debug\特殊集合：stack栈集合、queue队列集合.exe
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\特殊集合：stack栈集合、queue队列集合\obj\Debug\特殊集合：stack栈集合、queue队列集合.pdb

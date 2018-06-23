@@ -1,0 +1,17 @@
+C:\Users\PX\Desktop\Test\委托代理\白话委托1\bin\Debug\白话委托1.exe.config
+C:\Users\PX\Desktop\Test\委托代理\白话委托1\bin\Debug\白话委托1.exe
+C:\Users\PX\Desktop\Test\委托代理\白话委托1\bin\Debug\白话委托1.pdb
+C:\Users\PX\Desktop\Test\委托代理\白话委托1\obj\Debug\白话委托1.exe
+C:\Users\PX\Desktop\Test\委托代理\白话委托1\obj\Debug\白话委托1.pdb
+C:\Users\Administrator\Desktop\Test\委托代理\白话委托1\bin\Debug\白话委托1.exe.config
+C:\Users\Administrator\Desktop\Test\委托代理\白话委托1\obj\Debug\白话委托1.exe
+C:\Users\Administrator\Desktop\Test\委托代理\白话委托1\obj\Debug\白话委托1.pdb
+C:\Users\Administrator\Desktop\Test\委托代理\白话委托1\bin\Debug\白话委托1.exe
+C:\Users\Administrator\Desktop\Test\委托代理\白话委托1\bin\Debug\白话委托1.pdb
+C:\Users\Administrator\Desktop\Test\委托代理\白话委托1\obj\Debug\白话委托1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\白话委托1\bin\Debug\白话委托1.exe.config
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\白话委托1\obj\Debug\白话委托1.exe
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\白话委托1\obj\Debug\白话委托1.pdb
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\白话委托1\bin\Debug\白话委托1.exe
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\白话委托1\bin\Debug\白话委托1.pdb
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\白话委托1\obj\Debug\白话委托1.csprojResolveAssemblyReference.cache

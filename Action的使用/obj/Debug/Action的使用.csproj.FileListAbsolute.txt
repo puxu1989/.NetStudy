@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Action的使用\bin\Debug\Action的使用.exe
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Action的使用\bin\Debug\Action的使用.pdb
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Action的使用\obj\Debug\Action的使用.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Action的使用\obj\Debug\Action的使用.exe
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Action的使用\obj\Debug\Action的使用.pdb

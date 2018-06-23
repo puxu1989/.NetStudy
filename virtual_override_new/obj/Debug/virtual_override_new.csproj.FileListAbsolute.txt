@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Test\委托代理\virtual_override_new\bin\Debug\virtual_override_new.exe
+C:\Users\Administrator\Desktop\Test\委托代理\virtual_override_new\bin\Debug\virtual_override_new.pdb
+C:\Users\Administrator\Desktop\Test\委托代理\virtual_override_new\obj\Debug\virtual_override_new.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Test\委托代理\virtual_override_new\obj\Debug\virtual_override_new.exe
+C:\Users\Administrator\Desktop\Test\委托代理\virtual_override_new\obj\Debug\virtual_override_new.pdb
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\virtual_override_new\obj\Debug\virtual_override_new.exe
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\virtual_override_new\obj\Debug\virtual_override_new.pdb
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\virtual_override_new\bin\Debug\virtual_override_new.exe
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\virtual_override_new\bin\Debug\virtual_override_new.pdb
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\virtual_override_new\obj\Debug\virtual_override_new.csprojResolveAssemblyReference.cache

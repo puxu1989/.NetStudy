@@ -1,0 +1,12 @@
+C:\Users\PX\Desktop\Test\委托代理\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\PX\Desktop\Test\委托代理\Delegate\bin\Debug\Delegate.exe
+C:\Users\PX\Desktop\Test\委托代理\Delegate\bin\Debug\Delegate.pdb
+C:\Users\PX\Desktop\Test\委托代理\Delegate\obj\Debug\Delegate.exe
+C:\Users\PX\Desktop\Test\委托代理\Delegate\obj\Debug\Delegate.pdb
+C:\Users\PX\Desktop\Test\委托代理\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Delegate\bin\Debug\Delegate.exe
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Delegate\bin\Debug\Delegate.pdb
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Delegate\obj\Debug\Delegate.exe
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\Delegate\obj\Debug\Delegate.pdb

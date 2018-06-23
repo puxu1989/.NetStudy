@@ -1,0 +1,11 @@
+C:\Users\PX\Desktop\Test\委托代理\委托事件区别Web\bin\委托事件区别Web.dll.config
+C:\Users\PX\Desktop\Test\委托代理\委托事件区别Web\bin\委托事件区别Web.dll
+C:\Users\PX\Desktop\Test\委托代理\委托事件区别Web\bin\委托事件区别Web.pdb
+C:\Users\PX\Desktop\Test\委托代理\委托事件区别Web\obj\Debug\委托事件区别Web.dll
+C:\Users\PX\Desktop\Test\委托代理\委托事件区别Web\obj\Debug\委托事件区别Web.pdb
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\委托事件区别Web\bin\委托事件区别Web.dll.config
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\委托事件区别Web\bin\委托事件区别Web.dll
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\委托事件区别Web\bin\委托事件区别Web.pdb
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\委托事件区别Web\obj\Debug\委托事件区别Web.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\委托事件区别Web\obj\Debug\委托事件区别Web.dll
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\委托事件区别Web\obj\Debug\委托事件区别Web.pdb

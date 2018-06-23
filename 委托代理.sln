@@ -1,0 +1,112 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托代理", "委托代理\委托代理.csproj", "{B1D0ABE6-893D-473C-AD0A-E56FCD5834F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{9663E7E4-1705-4BE4-90E0-81A4CA2AAAF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "白话委托1", "白话委托1\白话委托1.csproj", "{FDD8B281-E13B-41C1-A373-AA48A963BBFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "白话委托事件2", "白话委托事件2\白话委托事件2.csproj", "{0103DF56-D18C-41D7-A9AC-2F038233E0B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "白话委托事件EventArgs3", "白话委托事件EventArgs3\白话委托事件EventArgs3.csproj", "{EFE883C3-034D-4CF7-AC8D-E3A5D60FEEC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "白话委托事件银行取款通知", "白话委托事件银行取款通知\白话委托事件银行取款通知.csproj", "{58CFD89E-1693-41F6-BD1C-BA54D2FED319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托事件区别Web", "委托事件区别Web\委托事件区别Web.csproj", "{81A1051A-2E6B-4A4E-B463-BF1C8FE61005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "virtual_override_new", "virtual_override_new\virtual_override_new.csproj", "{30428FD8-63E6-49B7-A641-71DFF1C6D808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "析构（~）用法和区别", "析构（~）用法和区别\析构（~）用法和区别.csproj", "{01F56ACD-2225-4B77-B1B3-A0EB033B0498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "反射", "反射\反射.csproj", "{5793446D-227F-440B-8C90-477C5EC00225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action的使用", "Action的使用\Action的使用.csproj", "{815C75E1-9376-4F43-85FB-51674A0E57A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task相关", "Task相关\Task相关.csproj", "{213BD866-D9C5-4094-8F7D-D91FAB10F11D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "特殊集合：stack栈集合、queue队列集合", "特殊集合：stack栈集合、queue队列集合\特殊集合：stack栈集合、queue队列集合.csproj", "{AED6FD1D-2EBF-4F62-9909-5AB42936C7D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func相关", "Func相关\Func相关.csproj", "{8CCD766A-8455-417D-BA5A-A1F7E26AE6B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lambda相关", "lambda相关\lambda相关.csproj", "{13C2D21E-BA6D-4F3D-B1E8-657DE23F8C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "同步异步", "同步异步\同步异步.csproj", "{364F57A2-FF8F-4A17-A765-E4A2DBFF1B10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1D0ABE6-893D-473C-AD0A-E56FCD5834F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D0ABE6-893D-473C-AD0A-E56FCD5834F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D0ABE6-893D-473C-AD0A-E56FCD5834F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D0ABE6-893D-473C-AD0A-E56FCD5834F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9663E7E4-1705-4BE4-90E0-81A4CA2AAAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9663E7E4-1705-4BE4-90E0-81A4CA2AAAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9663E7E4-1705-4BE4-90E0-81A4CA2AAAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9663E7E4-1705-4BE4-90E0-81A4CA2AAAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD8B281-E13B-41C1-A373-AA48A963BBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD8B281-E13B-41C1-A373-AA48A963BBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD8B281-E13B-41C1-A373-AA48A963BBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD8B281-E13B-41C1-A373-AA48A963BBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0103DF56-D18C-41D7-A9AC-2F038233E0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0103DF56-D18C-41D7-A9AC-2F038233E0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0103DF56-D18C-41D7-A9AC-2F038233E0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0103DF56-D18C-41D7-A9AC-2F038233E0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE883C3-034D-4CF7-AC8D-E3A5D60FEEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE883C3-034D-4CF7-AC8D-E3A5D60FEEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE883C3-034D-4CF7-AC8D-E3A5D60FEEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE883C3-034D-4CF7-AC8D-E3A5D60FEEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CFD89E-1693-41F6-BD1C-BA54D2FED319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CFD89E-1693-41F6-BD1C-BA54D2FED319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CFD89E-1693-41F6-BD1C-BA54D2FED319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CFD89E-1693-41F6-BD1C-BA54D2FED319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A1051A-2E6B-4A4E-B463-BF1C8FE61005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A1051A-2E6B-4A4E-B463-BF1C8FE61005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A1051A-2E6B-4A4E-B463-BF1C8FE61005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A1051A-2E6B-4A4E-B463-BF1C8FE61005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30428FD8-63E6-49B7-A641-71DFF1C6D808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30428FD8-63E6-49B7-A641-71DFF1C6D808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30428FD8-63E6-49B7-A641-71DFF1C6D808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30428FD8-63E6-49B7-A641-71DFF1C6D808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F56ACD-2225-4B77-B1B3-A0EB033B0498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F56ACD-2225-4B77-B1B3-A0EB033B0498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F56ACD-2225-4B77-B1B3-A0EB033B0498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F56ACD-2225-4B77-B1B3-A0EB033B0498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5793446D-227F-440B-8C90-477C5EC00225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5793446D-227F-440B-8C90-477C5EC00225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5793446D-227F-440B-8C90-477C5EC00225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5793446D-227F-440B-8C90-477C5EC00225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815C75E1-9376-4F43-85FB-51674A0E57A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815C75E1-9376-4F43-85FB-51674A0E57A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815C75E1-9376-4F43-85FB-51674A0E57A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815C75E1-9376-4F43-85FB-51674A0E57A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213BD866-D9C5-4094-8F7D-D91FAB10F11D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213BD866-D9C5-4094-8F7D-D91FAB10F11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213BD866-D9C5-4094-8F7D-D91FAB10F11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213BD866-D9C5-4094-8F7D-D91FAB10F11D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AED6FD1D-2EBF-4F62-9909-5AB42936C7D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED6FD1D-2EBF-4F62-9909-5AB42936C7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED6FD1D-2EBF-4F62-9909-5AB42936C7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED6FD1D-2EBF-4F62-9909-5AB42936C7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCD766A-8455-417D-BA5A-A1F7E26AE6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCD766A-8455-417D-BA5A-A1F7E26AE6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCD766A-8455-417D-BA5A-A1F7E26AE6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCD766A-8455-417D-BA5A-A1F7E26AE6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C2D21E-BA6D-4F3D-B1E8-657DE23F8C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C2D21E-BA6D-4F3D-B1E8-657DE23F8C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C2D21E-BA6D-4F3D-B1E8-657DE23F8C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C2D21E-BA6D-4F3D-B1E8-657DE23F8C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364F57A2-FF8F-4A17-A765-E4A2DBFF1B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364F57A2-FF8F-4A17-A765-E4A2DBFF1B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364F57A2-FF8F-4A17-A765-E4A2DBFF1B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364F57A2-FF8F-4A17-A765-E4A2DBFF1B10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

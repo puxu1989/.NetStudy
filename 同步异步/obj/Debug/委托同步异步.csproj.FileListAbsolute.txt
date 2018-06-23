@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\委托同步异步\bin\Debug\委托同步异步.exe
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\委托同步异步\bin\Debug\委托同步异步.pdb
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\委托同步异步\obj\Debug\委托同步异步.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\委托同步异步\obj\Debug\委托同步异步.exe
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\委托同步异步\obj\Debug\委托同步异步.pdb
+C:\Users\Administrator\Desktop\我的资料\项目源码\委托代理\委托同步异步\bin\Debug\委托同步异步.exe.config
